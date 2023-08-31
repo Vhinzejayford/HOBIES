@@ -1,0 +1,46 @@
+body{
+  background-image:url(2.jpg);
+  height: 100vh;
+ background-repeat: no-repeat;
+ width: 100%;
+ background-size:cover;
+ background-position: center;
+ }
+ .box{
+     width: 500px;
+     background: rgba(0, 0 ,0 , 0.4);
+     padding: 100px;
+     text-align: center;
+ margin: auto;
+ margin-top: 0%;
+ color: white;
+ font-family: 'Century ghothic',sas-serif;
+ }
+ .box-img{
+     border-radius: 50%;
+     width: 200px;
+     height: 200px;
+ }
+ .box h1{
+     font-size: 50px;
+     letter-spacing: 1px;
+     font-weight: 10;
+ }
+ .box h5{
+     font-size: 25px;
+     letter-spacing: 1px;
+     font-weight: 100;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
